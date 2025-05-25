@@ -1,0 +1,5 @@
+*.ipynb linguist-detectable=false
+*.las linguist-detectable=false
+*.LAS linguist-detectable=false
+*.segy linguist-detectable=false
+*.sgy linguist-detectable=false
